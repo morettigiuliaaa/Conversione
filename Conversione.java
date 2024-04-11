@@ -1,4 +1,4 @@
-package it.edu.iisgubbio.tpsit;
+package it.edu.iisgubbio.tpsit.Conversione;
 
 import java.util.*;
 import javafx.application.Application;
